@@ -1,55 +1,31 @@
-=== GM Show Product Sales Number for WooCommerce ===
+=== GM Show Product Sales Number ===
 Contributors: GuideMaster
-Tags: woocommerce, sales count, fake sales, product sales, show sold count
+Tags: woocommerce, sales, product sales, boost
 Requires at least: 5.5
-Tested up to: 6.5
+Tested up to: 6.8
 Requires PHP: 7.2
-Stable tag: 1.0
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Show total product sales in WooCommerce with ability to add fake sales count and customizable message.
+افزونه‌ای برای نمایش تعداد فروش واقعی و جعلی محصولات ووکامرس، با قابلیت مدیریت کامل از طریق پیشخوان وردپرس.
 
 == Description ==
-
-This lightweight WooCommerce plugin allows you to:
-
-- Show total sales count (real + fake)
-- Add a fake sales number to each product from admin panel
-- Customize prefix and suffix messages (like: "🔥 Already" + "123" + "people bought this")
-
-Perfect for social proof and boosting customer trust.
-
-All strings are editable per product.
+این افزونه به شما این امکان را می‌دهد تا به‌صورت ترکیبی از فروش واقعی محصولات فروشگاه ووکامرس و عدد فروش جعلی قابل تنظیم، نمایش پویاتری از فروش داشته باشید. شما می‌توانید برای هر محصول به صورت جداگانه عدد و متن نمایش را مشخص کنید یا به صورت پیش‌فرض برای همه محصولات مقدار تنظیم کنید.
 
 == Installation ==
-
-1. Upload the plugin folder to the `/wp-content/plugins/` directory or install via WordPress admin
-2. Activate the plugin through the "Plugins" menu in WordPress
-3. Edit any WooCommerce product > under **General**, fill:
-   - Fake Sales Count
-   - Prefix Message
-   - Suffix Message
-
-== Frequently Asked Questions ==
-
-= Will this override real WooCommerce sales? =
-No. It only displays an adjusted number (real + fake) in frontend. The actual sales data is untouched.
-
-= Can I translate this plugin? =
-Yes! All strings are localized and ready for tools like Loco Translate.
+1. افزونه را بارگذاری کنید.
+2. در پیشخوان وردپرس، از منوی GM > فروش فیک ووکامرس تنظیمات را انجام دهید.
 
 == Screenshots ==
-
-1. Admin interface in product edit page
-2. Display of custom sales message on product page
+1. فیلدهای تنظیمات در محصول
+2. نمایش تعداد فروش در صفحه محصول
 
 == Changelog ==
-
-= 1.0 =
-* Initial release – show real + fake product sales with customizable message
+= 1.5 =
+* افزایش امنیت و کارایی
+* استفاده از رنج تصادفی برای فروش فیک
+* انتقال تنظیمات به منوی GM
 
 == Upgrade Notice ==
-
-= 1.0 =
-First stable release.
+نسخه 1.5 شامل بهینه‌سازی امنیتی و ساختار استاندارد مخزن وردپرس است.

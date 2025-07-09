@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "Fake Sales Settings"
+msgstr "إعدادات المبيعات الوهمية"
+
+msgid "Default Min Fake Sales"
+msgstr "الحد الأدنى الافتراضي للمبيعات الوهمية"
+
+msgid "Default Max Fake Sales"
+msgstr "الحد الأقصى الافتراضي للمبيعات الوهمية"
+
+msgid "Default Prefix Text (before number)"
+msgstr "النص الافتراضي قبل الرقم"
+
+msgid "Default Suffix Text (after number)"
+msgstr "النص الافتراضي بعد الرقم"
+
+msgid "Message Prefix (for this product)"
+msgstr "بادئة الرسالة (لهذا المنتج)"
+
+msgid "Message Suffix (for this product)"
+msgstr "لاحقة الرسالة (لهذا المنتج)"
+
+msgid "Fake Sales Count (for this product)"
+msgstr "عدد المبيعات الوهمية (لهذا المنتج)"
+
+msgid "Security error: Invalid nonce."
+msgstr "خطأ أمني: الرمز غير صالح."
+
+msgid "people have purchased"
+msgstr "قاموا بالشراء"
+
+msgid "So far"
+msgstr "حتى الآن"
+
+msgid "Please select one of the GM plugins from the left menu."
+msgstr "يرجى اختيار أحد إضافات GM من القائمة الجانبية."
+
+msgid "Welcome to GM Plugin Suite"
+msgstr "مرحبًا بك في مجموعة إضافات GM"

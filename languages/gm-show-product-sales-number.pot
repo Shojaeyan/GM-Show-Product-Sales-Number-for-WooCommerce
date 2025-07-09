@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GM Show Product Sales Number\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language:\n"
+
+#: Plugin strings
+msgid "Fake Sales Settings"
+msgstr ""
+
+msgid "Default Min Fake Sales"
+msgstr ""
+
+msgid "Default Max Fake Sales"
+msgstr ""
+
+msgid "Default Prefix Text (before number)"
+msgstr ""
+
+msgid "Default Suffix Text (after number)"
+msgstr ""
+
+msgid "Message Prefix (for this product)"
+msgstr ""
+
+msgid "Message Suffix (for this product)"
+msgstr ""
+
+msgid "Fake Sales Count (for this product)"
+msgstr ""
+
+msgid "Security error: Invalid nonce."
+msgstr ""
+
+msgid "people have purchased"
+msgstr ""
+
+msgid "So far"
+msgstr ""
+
+msgid "Please select one of the GM plugins from the left menu."
+msgstr ""
+
+msgid "Welcome to GM Plugin Suite"
+msgstr ""
+
+msgid "Fake Sales (WooCommerce)"
+msgstr ""

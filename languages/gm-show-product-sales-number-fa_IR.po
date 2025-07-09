@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "Fake Sales Settings"
+msgstr "تنظیمات فروش فیک"
+
+msgid "Default Min Fake Sales"
+msgstr "حداقل فروش فیک پیش‌فرض"
+
+msgid "Default Max Fake Sales"
+msgstr "حداکثر فروش فیک پیش‌فرض"
+
+msgid "Default Prefix Text (before number)"
+msgstr "متن پیش‌فرض قبل از عدد فروش"
+
+msgid "Default Suffix Text (after number)"
+msgstr "متن پیش‌فرض بعد از عدد فروش"
+
+msgid "Message Prefix (for this product)"
+msgstr "متن قبل از عدد (برای این محصول)"
+
+msgid "Message Suffix (for this product)"
+msgstr "متن بعد از عدد (برای این محصول)"
+
+msgid "Fake Sales Count (for this product)"
+msgstr "تعداد فروش فیک (برای این محصول)"
+
+msgid "Security error: Invalid nonce."
+msgstr "خطای امنیتی: Nonce نامعتبر است."
+
+msgid "people have purchased"
+msgstr "نفر خرید کرده‌اند"
+
+msgid "So far"
+msgstr "تا الان"
+
+msgid "Please select one of the GM plugins from the left menu."
+msgstr "لطفاً از منوی سمت چپ یکی از افزونه‌های GM را انتخاب کنید."
+
+msgid "Welcome to GM Plugin Suite"
+msgstr "به مجموعه افزونه‌های GM خوش آمدید"
+
+msgid "Fake Sales (WooCommerce)"
+msgstr "نمایش تعداد فروش"

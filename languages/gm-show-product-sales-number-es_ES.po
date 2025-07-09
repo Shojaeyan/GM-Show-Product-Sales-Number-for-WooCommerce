@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "Fake Sales Settings"
+msgstr "Configuración de ventas falsas"
+
+msgid "Default Min Fake Sales"
+msgstr "Ventas falsas mínimas por defecto"
+
+msgid "Default Max Fake Sales"
+msgstr "Ventas falsas máximas por defecto"
+
+msgid "Default Prefix Text (before number)"
+msgstr "Texto de prefijo predeterminado (antes del número)"
+
+msgid "Default Suffix Text (after number)"
+msgstr "Texto de sufijo predeterminado (después del número)"
+
+msgid "Message Prefix (for this product)"
+msgstr "Prefijo del mensaje (para este producto)"
+
+msgid "Message Suffix (for this product)"
+msgstr "Sufijo del mensaje (para este producto)"
+
+msgid "Fake Sales Count (for this product)"
+msgstr "Cantidad de ventas falsas (para este producto)"
+
+msgid "Security error: Invalid nonce."
+msgstr "Error de seguridad: nonce inválido."
+
+msgid "people have purchased"
+msgstr "personas han comprado"
+
+msgid "So far"
+msgstr "Hasta ahora"
+
+msgid "Please select one of the GM plugins from the left menu."
+msgstr "Por favor selecciona uno de los plugins de GM del menú de la izquierda."
+
+msgid "Welcome to GM Plugin Suite"
+msgstr "Bienvenido a la suite de plugins de GM"
